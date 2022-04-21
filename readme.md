@@ -1,6 +1,6 @@
 ## 生日快乐
 
-> <b>修改config.js的配置就可以为您心爱的人做一个超具创意的网页生日快乐呀,喜欢的话fork or star一下呗~</b>
+> <b>修改config.js的配置~</b>
 
 <img src="https://github.com/AJLoveChina/loveBalloon/blob/master/static/github-star.png" />
 
